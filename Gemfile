@@ -44,6 +44,8 @@ end
 
 group :test do
   gem 'cucumber-rails'
+  gem 'cucumber-websteps'
   gem 'capybara'
   gem 'database_cleaner'
 end
+
